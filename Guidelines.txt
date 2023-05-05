@@ -1,0 +1,7 @@
+Simple Chat App
+
+1. Extract the file and open it to any framework or IDE
+2. After extracting go to the terminal and type "npm start"
+3. The program will start and you need to input your username and room number
+4. After that you can chat with someone as same as your room number.
+5. Enjoy!
